@@ -37,7 +37,10 @@
 export default {
   props: {
     help: String,
-    value: Object,
+    value: {
+      type: Object,
+      default: () => ({})
+    },
     label: String,
     disabled: Boolean,
     required: Boolean,
