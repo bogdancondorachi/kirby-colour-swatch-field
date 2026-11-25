@@ -3,7 +3,7 @@
   "description": "Colour swatch field for Kirby CMS",
   "type": "kirby-plugin",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "homepage": "https://github.com/bogdancondorachi/kirby-colour-swatch-field",
   "authors": [
     {
